@@ -17,18 +17,18 @@ and organizational decision-making.
 
 ## Objectives
 
--   Determine the number of underlying factors\
--   Extract and rotate factors for interpretability\
--   Interpret factor structure\
+-   Determine the number of underlying factors
+-   Extract and rotate factors for interpretability
+-   Interpret factor structure
 -   Provide actionable insights for HR
 
 ------------------------------------------------------------------------
 
 ## Data Description
 
--   Sample size: 500 employees\
--   Items: 30 questions (Q01--Q30)\
--   Scale: 7-point Likert (1 = Strongly Disagree, 7 = Strongly Agree)\
+-   Sample size: 500 employees
+-   Items: 30 questions (Q01--Q30)
+-   Scale: 7-point Likert (1 = Strongly Disagree, 7 = Strongly Agree)
 -   Missing data: None detected
 
 ------------------------------------------------------------------------
@@ -43,8 +43,8 @@ should be retained.
 
 # Factor Extraction & Rotation
 
--   Extraction Method: Principal Component Analysis (PCA)\
--   Rotation: Varimax\
+-   Extraction Method: Principal Component Analysis (PCA)
+-   Rotation: Varimax
 -   Loading cutoff: 0.40
 
 Varimax rotation improved interpretability by maximizing variance
@@ -56,13 +56,13 @@ explained within each factor.
 
 ## Factor 1: Team Innovation
 
-Items: Q13--Q18\
+Items: Q13--Q18
 Focus: Openness to change, creativity, risk-taking, implementation of
 new ideas.
 
 ## Factor 2: Employee Engagement
 
-Items: Q07--Q12\
+Items: Q07--Q12
 Focus: Energy, enthusiasm, immersion, emotional involvement in work.
 
 ## Factor 3: Organizational Commitment
@@ -72,13 +72,13 @@ Focus: Belonging, loyalty, pride, long-term retention intention.
 
 ## Factor 4: Job Satisfaction
 
-Items: Q01--Q06\
+Items: Q01--Q06
 Focus: Meaningfulness, accomplishment, skill utilization, role
 satisfaction.
 
 ## Factor 5: Leadership Support
 
-Items: Q19--Q24\
+Items: Q19--Q24
 Focus: Feedback, supervisor support, trust in leadership, communication.
 
 ------------------------------------------------------------------------
