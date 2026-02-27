@@ -92,20 +92,20 @@ indicating strong dimensional structure.
 
 # HR Implications
 
--   Enables targeted engagement and innovation initiatives\
--   Separates job satisfaction from organizational commitment\
--   Allows independent evaluation of leadership effectiveness\
+-   Enables targeted engagement and innovation initiatives
+-   Separates job satisfaction from organizational commitment
+-   Allows independent evaluation of leadership effectiveness
 -   Supports data-driven workforce strategy
 
 ------------------------------------------------------------------------
 
 # Technical Summary
 
--   Method: Exploratory Factor Analysis\
--   Extraction: PCA\
--   Rotation: Varimax\
--   Factors retained: 5\
--   Variance explained: 70.1%\
+-   Method: Exploratory Factor Analysis
+-   Extraction: PCA
+-   Rotation: Varimax
+-   Factors retained: 5
+-   Variance explained: 70.1%
 -   Sample size: 500
 
 ------------------------------------------------------------------------
